@@ -1,0 +1,21 @@
+{
+  "name": "scraping-clase",
+  "version": "1.0.0",
+  "description": "- Sigue las instrucciones del vídeo\r - Instala Express, axios y cheerio \r - Puedes usar la URL de tu projectBrake o esta: https://carlosdiazgirol.github.io/dashboard/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JLTrillo4/scraping-clase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JLTrillo4/scraping-clase/issues"
+  },
+  "homepage": "https://github.com/JLTrillo4/scraping-clase#readme"
+}
